@@ -3,7 +3,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("https://raw.githubusercontent.com/rodasmarcos/Wedding/main/images/home.jpg") no-repeat center center;
+  background: url("https://raw.githubusercontent.com/rodasmarcos/Wedding/main/images/aym.jpeg") no-repeat center center;
   background-size: cover;
   background-position: 70%;
   height: 100vh;
@@ -122,7 +122,7 @@ body {
 
 /* RSVP Style */
 .ww-rsvp-detail {
-  background: url("https://raw.githubusercontent.com/rodasmarcos/Wedding/main/images/home.jpg") no-repeat center center;
+  background: url("https://raw.githubusercontent.com/rodasmarcos/Wedding/main/images/aym.jpeg") no-repeat center center;
   background-size: cover;
   min-height: 500px;
   position: relative; }
