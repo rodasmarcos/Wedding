@@ -5,7 +5,10 @@ body {
 .ww-home-page {
   background: url("https://raw.githubusercontent.com/rodasmarcos/Wedding/main/images/aym.jpeg") no-repeat center center;
   background-size: cover;
-  background-position: 70%;
+
+  background-position-x: 69%;
+  background-position-y: 10%;
+
   height: 100vh;
   min-height: 480px;
   max-height: 1080px; }
@@ -27,7 +30,7 @@ body {
       width: auto; }
       @media (max-width: 480px) {
         .ww-home-page .ww-wedding-announcement img {
-          max-height: 250px;
+          max-height: 225px;
           width: auto; } }
     .ww-home-page .ww-wedding-announcement .ww-couple-name {
       font-size: 70px; }
